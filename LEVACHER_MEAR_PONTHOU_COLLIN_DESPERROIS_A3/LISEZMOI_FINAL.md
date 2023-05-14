@@ -6,7 +6,7 @@ Ce script permet la transformaton de fichier texte vers des PDF's.
 
 ## Installation Pré-Requise
 
-Si vous vous trouvez sur les PC de l'IUT, vous devez installer les différentes images Docker vous même pour cela tappez les commandes suivantes une par une: 
+Si vous vous trouvez sur les PC de l'IUT, vous devez installer les différentes images Docker vous même pour cela tapez les commandes suivantes une par une: 
 
 ```bash
 docker image pull sae103-php:latest
